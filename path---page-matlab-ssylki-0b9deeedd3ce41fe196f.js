@@ -1,0 +1,2 @@
+webpackJsonp([22577027872356],{348:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Есть решения задач практически для каждой типовой задачи, хорошо структурировано.\n[url=http://www.cyberforum.ru/matlab/thread897711.html]Примеры решений типовых задач[/url]</p>",frontmatter:{date:"2015-09-26 07:21:47",path:"/page/matlab-ssylki",title:"Matlab ссылки"}}},pathContext:{}}}});
+//# sourceMappingURL=path---page-matlab-ssylki-0b9deeedd3ce41fe196f.js.map
