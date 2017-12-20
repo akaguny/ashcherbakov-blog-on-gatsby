@@ -1,0 +1,32 @@
+---
+path: "/page/programmy-radioljubitelja-linux-wine"
+date: "2015-09-01 13:03:05"
+title: "Программы радиолюбителя (linux + wine)"
+---
+[table]
+[tr]
+[td] Название [/td]
+[td] Назначение [/td]
+[td] wine/linux native [/td]
+[/tr]
+[tr]
+[td] Splan7 [/td]
+[td] рисовалка [/td]
+[td] wine [/td]
+[/tr]
+[tr]
+[td] Qucs [/td]
+[td] симулятор(моделирование схем) [/td]
+[td] linux native [/td]
+[/tr]
+[tr]
+[td] Multisim12 [/td]
+[td] симулятор(моделирование схем) [/td]
+[td] wine [/td]
+[/tr]
+[tr]
+[td] ISIS(Proteus 7.8) [/td]
+[td] симулятор(моделирование схем) с упором на микроконтроллеры [/td]
+[td] wine [/td]
+[/tr]
+[/table]
