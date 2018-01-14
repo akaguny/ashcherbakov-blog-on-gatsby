@@ -1,6 +1,6 @@
 ---
 path: "/page/49-formulirovanie-algoritmov-povtorenie-upravljaemoe-kontrolnym-znacheniem"
-date: "2015-10-03 20:52:12"
+date: "2015-10-03"
 title: "4.9 Формулирование алгоритмов: повторение, управляемое контрольным значением"
 ---
 _ Как программировать на C++ Дейтел, стр.221

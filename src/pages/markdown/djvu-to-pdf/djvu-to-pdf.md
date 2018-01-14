@@ -1,6 +1,6 @@
 ---
 path: "/page/djvu-to-pdf"
-date: "2016-05-14 11:01:19"
+date: "2016-05-14"
 title: "djvu to pdf"
 ---
 Bash скрипт для конвертации djvu в pdf с относительным качеством, используя djvulibre-bin ([i]apt-get install djvulibre-bin[/i])

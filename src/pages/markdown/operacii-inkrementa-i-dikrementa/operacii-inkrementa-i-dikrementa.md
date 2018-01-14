@@ -1,6 +1,6 @@
 ---
 path: "/page/operacii-inkrementa-i-dikrementa"
-date: "2015-09-06 07:23:32"
+date: "2015-09-06"
 title: "Операции инкремента и дикремента в C++"
 ---
 [table]

@@ -1,6 +1,6 @@
 ---
 path: "/page/410-formulirovanie-algoritmov-vlozhennye-upravljajushhie-operatory"
-date: "2015-10-11 20:52:55"
+date: "2015-10-11"
 title: "4.10 Формулирование алгоритмов: вложенные управляющие операторы"
 ---
 _ Как программировать на C++ Дейтел, стр. 233

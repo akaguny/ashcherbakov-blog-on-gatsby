@@ -1,6 +1,6 @@
 ---
 path: "/page/311-modifikacija-klassa-gradebook"
-date: "2015-09-30 08:50:26"
+date: "2015-09-30"
 title: "3.11 Модификация класса GradeBook"
 ---
 стр.194

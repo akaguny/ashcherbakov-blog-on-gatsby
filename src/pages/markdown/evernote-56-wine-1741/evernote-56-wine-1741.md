@@ -1,6 +1,6 @@
 ---
 path: "/page/evernote-56-wine-1741"
-date: "2015-10-05 07:17:46"
+date: "2015-10-05"
 title: "Evernote 5.6 wine 1.7.41"
 ---
 ol

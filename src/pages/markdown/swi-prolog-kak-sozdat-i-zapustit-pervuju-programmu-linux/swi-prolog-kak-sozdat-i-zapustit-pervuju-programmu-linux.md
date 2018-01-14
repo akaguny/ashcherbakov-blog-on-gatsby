@@ -1,6 +1,6 @@
 ---
 path: "/page/swi-prolog-kak-sozdat-i-zapustit-pervuju-programmu-linux"
-date: "2016-05-19 16:32:43"
+date: "2016-05-19"
 title: "Swi-prolog как создать и запустить первую программу Linux"
 ---
 Запуск первой программы на swi-prolog

@@ -1,6 +1,6 @@
 ---
 path: "/page/sozdanie-obekta-nasledujushhego-prototip"
-date: "2015-10-17 09:48:33"
+date: "2015-10-17"
 title: "Создание объекта, наследующего прототип"
 ---
 _Пример ECMAScript3 совместимого кода(со спецификацией ECMAScript 5, если доступно)

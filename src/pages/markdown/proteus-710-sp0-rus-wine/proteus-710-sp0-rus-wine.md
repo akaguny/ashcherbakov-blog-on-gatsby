@@ -1,6 +1,6 @@
 ---
 path: "/page/proteus-710-sp0-rus-wine"
-date: "2015-09-30 07:17:15"
+date: "2015-09-30"
 title: "Proteus 7.10 SP0 Rus Wine"
 ---
 Дополнительно в PlayOnLinux установить только *gecko*, в настройках wine - эмулировать windows7

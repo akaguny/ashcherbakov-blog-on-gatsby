@@ -1,6 +1,6 @@
 ---
 path: "/page/prostoj-js-kalkuljator-uslug-na-checkbox-so-stilizaciej"
-date: "2016-07-04 23:06:45"
+date: "2016-07-04"
 title: "Простой калькулятор услуг v0.1.0"
 ---
 это простой js калькулятор услуг на checkbox со стилизацией

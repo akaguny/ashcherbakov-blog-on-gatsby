@@ -1,6 +1,6 @@
 ---
 path: "/page/office-2007-linux-wine"
-date: "2015-09-26 13:01:29"
+date: "2015-09-26"
 title: "Office 2007 linux wine"
 ---
 _ Устанавливается при помощи встроенного скрипта PlayOnLinux

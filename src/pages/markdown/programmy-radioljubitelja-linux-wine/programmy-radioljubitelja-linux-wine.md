@@ -1,6 +1,6 @@
 ---
 path: "/page/programmy-radioljubitelja-linux-wine"
-date: "2015-09-01 13:03:05"
+date: "2015-09-01"
 title: "Программы радиолюбителя (linux + wine)"
 ---
 [table]

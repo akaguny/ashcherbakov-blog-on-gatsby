@@ -1,6 +1,6 @@
 ---
 path: "/page/bystryj-start-motha-i-chai-v-brauzere-snippet"
-date: "2016-07-07 19:10:21"
+date: "2016-07-07"
 title: "Быстрый старт motha и chai в браузере | сниппет"
 ---
 По материалам:

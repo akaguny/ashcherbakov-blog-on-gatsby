@@ -1,6 +1,6 @@
 ---
 path: "/page/reshenie-differencialnyh-uravnenij-operatornym-metodom"
-date: "2015-10-04 09:07:14"
+date: "2015-10-04"
 title: "Решение дифференциальных уравнений операторным методом"
 ---
 _ Преобразование Лапласа функции f(t) имеет вид:

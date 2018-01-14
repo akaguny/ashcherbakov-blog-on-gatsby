@@ -1,6 +1,6 @@
 ---
 path: "/page/razlichija-turboprolog-i-gnuswi-prolog"
-date: "2015-10-12 07:50:51"
+date: "2015-10-12"
 title: "Различия TurboProlog и GNU/SWI Prolog"
 ---
 _ Во многих учебниках и методичках рассказывают как программировать на TurboProlog, однако он морально устарел.

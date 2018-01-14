@@ -1,6 +1,6 @@
 ---
 path: "/page/matlab-subplot"
-date: "2016-01-10 13:13:16"
+date: "2016-01-10"
 title: "Matlab subplot"
 ---
 Шпаргалка по стандартной функции subplot для отображения нескольких графиков в 1 окне(figure)

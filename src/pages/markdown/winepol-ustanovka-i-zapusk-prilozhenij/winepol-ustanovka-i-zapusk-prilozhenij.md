@@ -1,6 +1,6 @@
 ---
 path: "/page/winepol-ustanovka-i-zapusk-prilozhenij"
-date: "2015-09-25 15:01:04"
+date: "2015-09-25"
 title: "Wine(POL) установка и запуск приложений"
 ---
 Общий порядок действий установки программ в PlayOnLinux, про установку PlayOnLinux не расписываю, т.к. она сильно зависит от системы

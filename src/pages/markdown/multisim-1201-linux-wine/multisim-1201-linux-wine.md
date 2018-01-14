@@ -1,6 +1,6 @@
 ---
 path: "/page/multisim-1201-linux-wine"
-date: "2015-10-01 13:02:27"
+date: "2015-10-01"
 title: "Multisim 12.0.1 linux wine"
 ---
 PlayOnLinux
