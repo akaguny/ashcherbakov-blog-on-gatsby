@@ -1,0 +1,2 @@
+webpackJsonp([0x9b1af7798701],{548:function(t,a){t.exports={data:{markdownRemark:{html:'<p>[html]<script src="https://gist.github.com/akaguny/9ca8d4e92cb653f8e7b81400ed744a1f.js"></script>[/html]</p>',frontmatter:{date:"2016-07-07",path:"/page/bystryj-star",title:"Быстрый стар"}}},pathContext:{}}}});
+//# sourceMappingURL=path---page-bystryj-star-54c6a4297b7339bae91e.js.map
