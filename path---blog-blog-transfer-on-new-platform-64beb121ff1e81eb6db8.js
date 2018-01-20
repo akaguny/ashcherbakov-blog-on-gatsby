@@ -1,2 +1,2 @@
-webpackJsonp([0x5eee15f5c3c1],{532:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Инициирован переезд блога на gatsbyjs</p>",frontmatter:{date:"2017-12-18",path:"/blog/blog-transfer-on-new-platform",title:"Переезд блога на новую платформу"}}},pathContext:{}}}});
+webpackJsonp([0x5eee15f5c3c1],{529:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Инициирован переезд блога на gatsbyjs</p>",frontmatter:{date:"2017-12-18",path:"/blog/blog-transfer-on-new-platform",title:"Переезд блога на новую платформу"}}},pathContext:{}}}});
 //# sourceMappingURL=path---blog-blog-transfer-on-new-platform-64beb121ff1e81eb6db8.js.map

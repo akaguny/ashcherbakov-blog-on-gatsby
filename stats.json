@@ -21,8 +21,8 @@
       "path---page-reshenie-differencialnyh-uravnenij-operatornym-metodom-560b405814199ec25c7d.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c3ccb077cb31d3a2fc48.js",
-      "component---src-pages-index-js-c3ccb077cb31d3a2fc48.js.map"
+      "component---src-pages-index-js-a6e89d83cdddf3632f1e.js",
+      "component---src-pages-index-js-a6e89d83cdddf3632f1e.js.map"
     ],
     "path---page-311-modifikacija-klassa-gradebook": [
       "path---page-311-modifikacija-klassa-gradebook-7e28364377a6cfda1acf.js",
@@ -57,8 +57,8 @@
       "path---page-about-2f40062ff12aeedf99a6.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-81ee07305b3504709180.js",
-      "component---src-layouts-index-js-81ee07305b3504709180.js.map"
+      "component---src-layouts-index-js-ecfa738efce46a40c84c.js",
+      "component---src-layouts-index-js-ecfa738efce46a40c84c.js.map"
     ],
     "component---src-templates-blog-template-js": [
       "component---src-templates-blog-template-js-81a2a5d1785173de96da.js",
@@ -68,13 +68,9 @@
       "path---page-winepol-ustanovka-i-zapusk-prilozhenij-9cfafb333b7ead9d322c.js",
       "path---page-winepol-ustanovka-i-zapusk-prilozhenij-9cfafb333b7ead9d322c.js.map"
     ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
-    ],
     "path---index": [
-      "path---index-080a432bda420ce62ba1.js",
-      "path---index-080a432bda420ce62ba1.js.map"
+      "path---index-9e414a7444f2b2277dd8.js",
+      "path---index-9e414a7444f2b2277dd8.js.map"
     ],
     "path---page-uml-shpargalka-po-strelochkam": [
       "path---page-uml-shpargalka-po-strelochkam-a913ddce41424bb94898.js",
@@ -128,18 +124,14 @@
       "path---page-evernote-56-wine-1753-staging-1854e13fb3835f467e8d.js",
       "path---page-evernote-56-wine-1753-staging-1854e13fb3835f467e8d.js.map"
     ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-814c3250cda4a015aef7.js",
-      "component---src-pages-page-2-js-814c3250cda4a015aef7.js.map"
-    ],
     "path---page-ethernet-ii-frame-razbor-kadra-ethernet-ii": [
       "path---page-ethernet-ii-frame-razbor-kadra-ethernet-ii-f97fc4b5e83e62e0b43d.js",
       "path---page-ethernet-ii-frame-razbor-kadra-ethernet-ii-f97fc4b5e83e62e0b43d.js.map"
     ],
     "app": [
-      "app-e6b7620b43cfccafba90.js",
+      "app-2f7370f331a8018299d0.js",
       "build-js-styles.css",
-      "app-e6b7620b43cfccafba90.js.map",
+      "app-2f7370f331a8018299d0.js.map",
       "build-js-styles.css.map"
     ],
     "path---page-programmy-radioljubitelja-linux-wine": [
