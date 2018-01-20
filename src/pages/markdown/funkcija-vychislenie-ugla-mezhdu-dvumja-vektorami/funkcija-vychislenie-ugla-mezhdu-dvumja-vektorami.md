@@ -5,7 +5,8 @@ title: "Функция вычисление угла между двумя ве�
 ---
 Постарался максимально использовать встроенные методы работы с массивами, но думаю можно ещё лучше). Так что жду комментариев(по поводу орфографии/пунктуации тоже)!
 [cut]
-[pre lang=js]
+
+```
 "use strict";
 // Функция для вычисления угла между 2 векторами
 var angleBetweenTwoVectors = function(vector1, vector2) {
@@ -36,6 +37,7 @@ var angleBetweenTwoVectors = function(vector1, vector2) {
 var v1 = [4, 3, 4];
 var v2 = [4, 4, 4];
 console.log(angleBetweenTwoVectors(v1, v2) + " радиан");
-[/pre]
-_ Открыть в песочнице: <a href="http://plnkr.co/edit/o8R1eTaXx57J6Ag89OYW">plnkr.co</a>
-_ Источник формулы:<a href ="http://ru.onlinemschool.com/math/library/vector/angl/">ru.onlinemschool.com</a>
+
+```
+— Открыть в песочнице: <a href="http://plnkr.co/edit/o8R1eTaXx57J6Ag89OYW">plnkr.co</a>
+— Источник формулы:<a href ="http://ru.onlinemschool.com/math/library/vector/angl/">ru.onlinemschool.com</a>

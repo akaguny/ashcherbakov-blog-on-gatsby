@@ -9,5 +9,5 @@ ul
 * Wine установка и запуск приложений
 * mfc42 vcrun2008 dotnet20 mdac28 corefonts jet40
 * шрифты
-_ 
+— 
 <a href="http://stud.ashcherbakov.ru/uploads/_pages/30/evernote56wine1753staging1.jpg"><img src="http://stud.ashcherbakov.ru/uploads/_pages/30/mini/evernote56wine1753staging1.jpg" alt="evernote56wine1753staging1.jpg" title="evernote56wine1753staging1.jpg"></a>

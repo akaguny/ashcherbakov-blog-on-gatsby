@@ -28,4 +28,4 @@ ul
 * простой калькулятор для популярных CMS(Joomla,wordpress,Maxsite) без установки специальных плагинов.
 /ul
 P.s. изучаю новое для себя [url=http://semver.org/lang/ru/spec/v2.0.0.html]Семантическое Версионирование[/url], буду его использовать для версирования калькулятора. Начальная версия 0.1.0
-_ <a href="http://stud.ashcherbakov.ru/uploads/_pages/43/calculator0.1.1.zip" type="button" class="button i-download bg-green500">Скачать калькулятор услуг для сайта(css+html+js) v0.1.0</a>
+— <a href="http://stud.ashcherbakov.ru/uploads/_pages/43/calculator0.1.1.zip" type="button" class="button i-download bg-green500">Скачать калькулятор услуг для сайта(css+html+js) v0.1.0</a>

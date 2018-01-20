@@ -12,7 +12,7 @@ title: "Бесплатные кириллические или универса�
 [gal=http://stud.ashcherbakov.ru/uploads/_pages/20/mini/yarin09.jpg]http://stud.ashcherbakov.ru/uploads/_pages/20/yarin09.jpg[/gal]
 [gal=http://stud.ashcherbakov.ru/uploads/_pages/20/mini/summer07.jpg]http://stud.ashcherbakov.ru/uploads/_pages/20/summer07.jpg[/gal]
 [/gallery]
-_ http://stud.ashcherbakov.ru/uploads/_pages/20/sensei.zip
-_ http://stud.ashcherbakov.ru/uploads/_pages/20/summer.zip
-_ http://stud.ashcherbakov.ru/uploads/_pages/20/yarin.zip
-_ Источник: http://www.fontfabric.com/
+— http://stud.ashcherbakov.ru/uploads/_pages/20/sensei.zip
+— http://stud.ashcherbakov.ru/uploads/_pages/20/summer.zip
+— http://stud.ashcherbakov.ru/uploads/_pages/20/yarin.zip
+— Источник: http://www.fontfabric.com/

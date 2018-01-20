@@ -19,12 +19,12 @@ ol
 * Неопределённая зависимость - независимая сущность как-то влияет на зависимую. Кошка "???" воду, студент "???" книгу
 [img Неопределённая зависимость]http://stud.ashcherbakov.ru/uploads/_pages/36/6.jpg[/img]
 /ol
-_ Все диаграммы нарисованы и доступны для редактирования в бесплатной программе UMLet(или онлайн редакторе http://www.umlet.com/umletino/), исходник в формате uxf:
+— Все диаграммы нарисованы и доступны для редактирования в бесплатной программе UMLet(или онлайн редакторе http://www.umlet.com/umletino/), исходник в формате uxf:
 [url=https://yadi.sk/d/Szrm1vkurchig]basic.uxf[/url]
-_ В полном размере:
-_ [image=http://stud.ashcherbakov.ru/uploads/_pages/36/mini/new1.jpg new1.jpg]http://stud.ashcherbakov.ru/uploads/_pages/36/new1.jpg[/image]
+— В полном размере:
+— [image=http://stud.ashcherbakov.ru/uploads/_pages/36/mini/new1.jpg new1.jpg]http://stud.ashcherbakov.ru/uploads/_pages/36/new1.jpg[/image]
 
-_ Источники:
+— Источники:
 ul
 * http://goo.gl/rMgmZ6
 * http://www.myshared.ru/slide/922379/ slide-62,93

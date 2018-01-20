@@ -3,12 +3,12 @@ path: "/page/vizualnyj-redaktor-latex-generacija-v-png"
 date: "2015-09-20"
 title: "Визуальный редактор LaTex, генерация в png"
 ---
-_ Визуальный(wysiwyg) онлайн редактор LaTex, генерирует изображение в формате .png, изображение необходтимо скачать н-р используя правую кнопку мыши на изображении формулы => сохранить
-_ Пример:
+— Визуальный(wysiwyg) онлайн редактор LaTex, генерирует изображение в формате .png, изображение необходтимо скачать н-р используя правую кнопку мыши на изображении формулы => сохранить
+— Пример:
 
 [image=http://stud.ashcherbakov.ru/uploads/_pages/1/mini/snimok-ekrana_2015-07-14_19-09-53.png snimok-ekrana_2015-07-14_19-09-53.png]http://stud.ashcherbakov.ru/uploads/_pages/1/snimok-ekrana_2015-07-14_19-09-53.png[/image]
 
-_ Генератор взят от сюда: [url=http://www.codecogs.com/latex/quick-install.php]latex[/url]
+— Генератор взят от сюда: [url=http://www.codecogs.com/latex/quick-install.php]latex[/url]
 [cut]
 <link rel="stylesheet" type="text/css"
   href="http://latex.codecogs.com/css/equation-embed.css" />

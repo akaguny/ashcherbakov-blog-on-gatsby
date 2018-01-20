@@ -5,7 +5,8 @@ title: "djvu to pdf"
 ---
 Bash скрипт для конвертации djvu в pdf с относительным качеством, используя djvulibre-bin ([i]apt-get install djvulibre-bin[/i])
 [cut]
-[pre]
+
+```
 #!/bin/bash
 # convert DjVu -> PDF
 # usage:  djvu2pdf.sh  <file.djvu>
@@ -16,9 +17,11 @@ o="$o".pdf
 echo "[ writing output to $o ] "
 cmd="ddjvu -format=pdf -quality=85 -verbose $i $o "
 $cmd
-[/pre]
-[show Модифицированный]
-[pre]
+
+```
+*  Модифицированный
+
+```
 #!/bin/bash
 # convert DjVu -> PDF
 # usage:  djvu2pdf.sh [-q quality | -b] <infile.djvu> [outfile.pdf]
@@ -57,5 +60,8 @@ cmd="ddjvu -format=pdf -quality=$quality -mode=$mode -verbose $i $o "
 
 echo "[ executing $cmd ] "
 $cmd
-[/pre][/show]
+
+```
+
+
 [url=http://superuser.com/questions/100572/how-do-i-convert-a-djvu-document-to-pdf-in-linux-using-only-command-line-tools]Источник[/url]

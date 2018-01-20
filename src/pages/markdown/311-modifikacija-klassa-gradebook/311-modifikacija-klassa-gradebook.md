@@ -7,22 +7,23 @@ title: "3.11 Модификация класса GradeBook"
 
 [cut]
 
-_  *Задание:*
-_ a) Введите второй элемент данных string, представляющий имя преподавателя, 
+—  *Задание:*
+— a) Введите второй элемент данных string, представляющий имя преподавателя, 
 ведущего курс. 
-_ b) Предусмотрите в классе set-функцию для изменения имени преподавателя 
+— b) Предусмотрите в классе set-функцию для изменения имени преподавателя 
 и get-функцию для его извлечения. 
-_ c) Модифицируйте конструктор, чтобы он специфицировал два параметра: один 
+— c) Модифицируйте конструктор, чтобы он специфицировал два параметра: один 
 для названия курса и второй — для имени преподавателя. 
-_ d) Модифицируйте элемент-функцию displayMessage так, чтобы она сначала 
+— d) Модифицируйте элемент-функцию displayMessage так, чтобы она сначала 
 выводила приветствие и название курса, а затем «This course is presented by: » 
 и имя преподавателя.
-_  *Рекомендации:*
-_ Выполняйте модификацию в том порядке, в котором это предложено в задании.
-_  *Код:*
+—  *Рекомендации:*
+— Выполняйте модификацию в том порядке, в котором это предложено в задании.
+—  *Код:*
 [spoiler=Показать]
-_  *Интерфейс класса*
-[pre lang=cplusplus]
+—  *Интерфейс класса*
+
+```
 // Рис. 3.15 GradeBook.h
 // Определение класса GradeBook представляет собой открытый интерфейс
 // класса. Определение элемент-функции находится в GradeBook.cpp
@@ -43,9 +44,11 @@ public:
 		string courseName; //  название курса для данного GradeBook
 		string teacherName; //  название курса для данного GradeBook
 };	//конец класса GradeBook
-[/pre]
-_  *Реализация класса*
-[pre lang=cplusplus]
+
+```
+—  *Реализация класса*
+
+```
 // Рис. 3.16 GradeBook.cpp
 // Реализация элемент-функции GradeBook
 // Фунция setCourseName производит подтверждение данных.
@@ -106,9 +109,11 @@ void GradeBook::displayMessage()
 		cout << "Курс ведёт: 
 " << getTeacherName() << "
 " << endl;
-	}// конец функции displayMessage[/pre]
-_  *Тестирование класса*
-[pre lang=cplusplus]
+	}// конец функции displayMessage
+```
+—  *Тестирование класса*
+
+```
 // Рис. 3.10: fig03_10.cpp
 // Включение класса GradeBook из GrradeBook.h в главную программу
 #include <iostream>
@@ -132,13 +137,15 @@ gradeBook1 созданная для: " << gradeBook1.getCourseName() << "
 	gradeBook2.displayMessage() ;
 	return 0;
 	}// конец main
-[/pre][/spoiler]
-_  *Код на codepad*: http://codepad.org/HqfPrP6B
-_  *Файлы исходного кода:* 
+
+```
+[/spoiler]
+—  *Код на codepad*: http://codepad.org/HqfPrP6B
+—  *Файлы исходного кода:* 
 ul
 * <a href="http://stud.ashcherbakov.ru/uploads/_pages/13/GradeBook.cpp">GradeBook.cpp</a>
 * <a href="http://stud.ashcherbakov.ru/uploads/_pages/13/GradeBook.h">GradeBook.h</a>
 * <a href="http://stud.ashcherbakov.ru/uploads/_pages/13/fig03_13.cpp">fig03_13.cpp</a>
 /ul
-_  *ОС:* ArchLinux
-_  *IDE:* Geany
+—  *ОС:* ArchLinux
+—  *IDE:* Geany
