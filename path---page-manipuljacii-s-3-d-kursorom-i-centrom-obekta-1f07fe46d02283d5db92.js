@@ -1,2 +1,0 @@
-webpackJsonp([0xeb1ef201172d],{347:function(t,a){t.exports={data:{markdownRemark:{html:'<p>Самые часто используемые команды и хот кейсы:\nисточник: <a href="http://blender.stackexchange.com/a/1292">http://blender.stackexchange.com/a/1292</a></p>',frontmatter:{date:"2015-12-01 08:51:23",path:"/page/manipuljacii-s-3d-kursorom-i-centrom-obekta",title:"Манипуляции с 3D курсором и центром объекта"}}},pathContext:{}}}});
-//# sourceMappingURL=path---page-manipuljacii-s-3-d-kursorom-i-centrom-obekta-1f07fe46d02283d5db92.js.map

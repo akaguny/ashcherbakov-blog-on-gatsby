@@ -1,2 +1,0 @@
-webpackJsonp([0xddfe04ea53c2],{351:function(e,n){e.exports={data:{markdownRemark:{html:"<p>_ Устанавливается при помощи встроенного скрипта PlayOnLinux\n_ Не работает: нет подписей у диаграмм в Excel, не решено, есть виртуалка с windowsXP и офисом ;-)</p>",frontmatter:{date:"2015-09-26 13:01:29",path:"/page/office-2007-linux-wine",title:"Office 2007 linux wine"}}},pathContext:{}}}});
-//# sourceMappingURL=path---page-office-2007-linux-wine-1ddde17dc4bb2e7cf9a0.js.map
