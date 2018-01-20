@@ -26,7 +26,7 @@
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\" gatsby-config.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build && cp ./src/CNAME public/ && gh-pages -d public"
   },
   "devDependencies": {
     "prettier": "^1.8.2"

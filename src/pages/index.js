@@ -8,9 +8,7 @@ export default ({ data }) => {
     console.log(data);
     return (
         <div>
-            <g.H1 display={"inline-block"} borderBottom={"1px solid"}>
-            </g.H1>
-            <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
+            <h4>Всего {data.allMarkdownRemark.totalCount} записей</h4>
             {data.allMarkdownRemark.edges.map(({ node }) => (
                 <div key={node.id}>
                     <g.H3 marginBottom={rhythm(1 / 4)}>
@@ -36,7 +34,7 @@ export const query = graphql`
           frontmatter {
             title
             path
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "DD.MM.YY")
           }
           excerpt
         }
