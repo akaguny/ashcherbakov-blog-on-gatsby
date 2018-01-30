@@ -27,7 +27,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Студенческий бложик
+          Archive: Студенческий бложик
         </Link>
       </h1>
     </div>
